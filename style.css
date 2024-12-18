@@ -1,0 +1,32 @@
+h1{
+    background-color: aquamarine; padding: 20px;
+}
+
+h2,h3{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;color: blueviolet;
+}
+
+img{
+
+    height: 300px;
+     width:400px;
+}
+
+*{
+background-color: blanchedalmond;
+
+}
+
+.happy{
+    background-color: brown;}
+    .sad{
+        background-color: blue;
+    }
+    #closing{background-color: black;}
+
+
+
+
+
+
